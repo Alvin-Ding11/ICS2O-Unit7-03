@@ -1,3 +1,4 @@
+
 document.getElementById('button').addEventListener('click', lines)
 let age = 0
 
